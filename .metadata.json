@@ -1,9 +1,5 @@
 [
   {
-    "package": "DGM",
-    "oncran": true
-  },
-  {
     "package": "emov",
     "oncran": true
   }
