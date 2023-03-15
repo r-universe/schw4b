@@ -1,10 +1,10 @@
 [
   {
-    "package": "DGM",
+    "package": "emov",
     "oncran": true
   },
   {
-    "package": "emov",
+    "package": "DGM",
     "oncran": true
   }
 ]
